@@ -21,7 +21,9 @@ PROJECT GOALS
 INSIGHTS 
 •	The customer that visited the most were customer A and B
 •	The menu item that was their favourite is ramen
-•	Customer spent the most with the total amount of $76 
+•	Customer A spent the most with the total amount of $76 
 
 FULL ARTICLE 
-The project article was hosted on medium and below is the link to it
+The project article was hosted on medium and below is the link to access it
+https://medium.com/@ogbozorracheal/exploratory-data-analysis-eda-using-posgresql-3da3f5588ce1?postPublishedType=initial
+
