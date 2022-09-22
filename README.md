@@ -3,7 +3,7 @@
 INTRODUCTION
 
 The project was carried out with the use Structured query language (SQL) to obtain more insight for the restaurant
-and the dataset was gotten through an '8weeksSQLchallenge' i am currently participating and these project was done base the "#case study 1" questions
+and the dataset was gotten through an '8weeksSQLchallenge' i am currently participating on and these project was done base on the "#case study 1" questions
 
 PROJECT GOALS
 1. What is the total amount each customer spent at the restaurant?
