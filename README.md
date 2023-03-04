@@ -1,11 +1,11 @@
 # Exploratory-Data-Analysis-EDA-for-dannys-restaurant
 
-INTRODUCTION
+## INTRODUCTION
 
-The project was carried out with the use Structured query language (SQL) to obtain more insight for the restaurant
-and the dataset was gotten through an '8weeksSQLchallenge' i am currently participating on and these project was done base on the "#case study 1" questions
+The project was carried out with the use of Structured query language (SQL) to obtain more insight for the restaurant
+and the dataset was gotten through an '8weeksSQLchallenge' i participated on and these project was done base on the "#case study 1" questions
 
- 1 PROJECT GOALS(Dannys_dinner)
+ ### PROJECT GOALS(Dannys_dinner)
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
@@ -18,7 +18,8 @@ and the dataset was gotten through an '8weeksSQLchallenge' i am currently partic
 10. In the first week after a customer joins the program (including their join date) they earn 2* points on all items, not just sushi. How many points do customer A and B have at the end of January?
 
 
-2, PROJECT GOALS (Pizzer_runner)
+### PROJECT GOALS (Pizzer_runner)
+
 A.PIZZA METRICS
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -31,7 +32,5 @@ A.PIZZA METRICS
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volumn of orders for each day of the week?
 
-FULL ARTICLE FOR Dannys_dinner
-The project article was hosted on medium and below is the link to access it
-https://medium.com/@ogbozorracheal/exploratory-data-analysis-eda-using-posgresql-3da3f5588ce1?postPublishedType=initial
+
 
