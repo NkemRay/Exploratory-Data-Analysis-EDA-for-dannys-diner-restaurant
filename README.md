@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-for-dannys-restaurant
+# Exploratory Data Analysis in SQL
 
 ## INTRODUCTION
 
